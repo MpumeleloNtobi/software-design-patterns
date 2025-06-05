@@ -14,3 +14,6 @@
 
 ### Factory
 - Used when all the objects creation and its business logic we need to keep in a single place
+
+### Abstract Factory
+- A factory of factory
