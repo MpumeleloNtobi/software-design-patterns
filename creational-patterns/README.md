@@ -10,3 +10,4 @@
 
 ### Singleton
 - Used when we have to create only a single instance of a class 
+- Restrict the creation of an object to the constructor
